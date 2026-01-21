@@ -7,10 +7,13 @@
 ---
 
 ## 🚀 Demo
-(ใส่ลิงก์หลัง deploy)
-👉 https://your-project-name.vercel.app
+👉https://dbd-database.vercel.app/)
 
 ---
+
+## Unfinished
+- Perk Killer และ Survivor ยัง add ไม่ครบ
+- ในอนาคตจะมี feature ใหม่ๆมาให้เล่น (อาจมีระบบ Ranking)
 
 ## 🛠 Tech Stack
 - React
