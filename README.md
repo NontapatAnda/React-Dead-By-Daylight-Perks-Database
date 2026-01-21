@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Demo
-👉https://dbd-database.vercel.app/)
+👉https://dbd-database.vercel.app/
 
 ---
 
