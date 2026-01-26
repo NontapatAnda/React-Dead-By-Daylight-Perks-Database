@@ -6,7 +6,7 @@ const PerkCard = ({ perk }) => {
   }[perk.tier] || "bg-gray-500";
 
   return (
-    <div className="rounded-lg p-3 sm:p-5 border border-gray-700" style={{ background: "#0F2027", backgroundImage: "linear-gradient(to right, #2C5364, #203A43, #0F2027)", fontFamily: "'Inter', sans-serif" }}>
+    <div className="rounded-lg p-3 sm:p-5 border border-gray-700 transition-all duration-300 cursor-pointer hover:shadow-xl hover:shadow-purple-500/50 hover:border-red-500 hover:scale-105" style={{ background: "#0F2027", backgroundImage: "linear-gradient(to right, #2C5364, #203A43, #0F2027)", fontFamily: "'Inter', sans-serif" }}>
       
       {/* รูป + รายละเอียด */}
       <div className="flex flex-col sm:flex-row gap-3 sm:gap-2">
