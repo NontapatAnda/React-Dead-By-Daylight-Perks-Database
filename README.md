@@ -17,6 +17,7 @@
 
 ##Latest Update
 - Add responsive
+- Bloodmoon Background
 
 ## 🛠 Tech Stack
 - React
