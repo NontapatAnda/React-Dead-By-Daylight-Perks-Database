@@ -11,11 +11,11 @@ const App = () => {
   const [filterRole, setFilterRole] = useState("all");
 
   return (
-    <div className="min-h-screen bg-gray-900 text-white p-6">
+    <div className="min-h-screen text-white p-6" style={{ background: "linear-gradient(135deg, #1a0a1a 0%, #3d1a2d 25%, #2d0a1a 50%, #3d1a2d 75%, #1a0a1a 100%)" }}>
     <div className="flex justify-center">
       <img
       src="/pic/Dead-by-Daylight-Emblem.png" alt="Logo" className="w-30 h-15" />
-      <h1 className="text-4xl font-bold text-red-500 mb-6">
+      <h1 className="text-4xl font-bold text-red-500 mb-6" style={{ fontFamily: "'Orbitron', sans-serif" }}>
         Dead by Daylight - Database
       </h1>
       </div>

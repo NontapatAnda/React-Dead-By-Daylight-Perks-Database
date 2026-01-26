@@ -54,7 +54,7 @@ export default function PerkRandomPage() {
   }
 
   return (
-    <div className="min-h-[80vh] bg-slate-900 text-white p-3 sm:p-6 flex justify-center">
+    <div className="min-h-[70vh] text-white p-3 sm:p-6 flex flex-col justify-center items-center">
       <style>{`
         @keyframes cardFlip {
           0% { transform: rotateY(90deg); opacity: 0; }
@@ -64,10 +64,10 @@ export default function PerkRandomPage() {
           animation: cardFlip 0.6s ease-out;
         }
       `}</style>
-      <div className="w-full max-w-2xl bg-slate-800 rounded-2xl p-4 sm:p-6 shadow-xl">
+      <div className="w-full max-w-3xl bg-slate-800 rounded-2xl p-4 sm:p-6 shadow-xl" style={{ fontFamily: "'Inter', sans-serif" }}>
 
         {/* Header */}
-        <h1 className="text-xl sm:text-3xl font-bold text-center mb-4 sm:mb-6">
+        <h1 className="text-xl sm:text-3xl font-bold text-center mb-4 sm:mb-6" style={{ fontFamily: "'Orbitron', sans-serif" }}>
           🎲 Random Perk Build (ระบบสุ่มเปิร์ก)
         </h1>
 
