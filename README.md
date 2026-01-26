@@ -15,7 +15,7 @@
 - Perk Killer และ Survivor ยัง add ไม่ครบ
 - ในอนาคตจะมี feature ใหม่ๆมาให้เล่น (อาจมีระบบ Ranking)
 
-##Latest Update
+## Latest Update
 - Add responsive
 - Bloodmoon Background
 
